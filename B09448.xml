@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lovers quarrel, or, Cupids triumph being the pleasant history of Fair Rosamond of Scotland, being daughter to the Lord Aundel whose love was obtained by the valour of Tommy Pots who conquered the Lord Phenix and wounded him and after obtained her to be his wife.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09448</idno><idno type="EEBO-CITATION">62369454</idno>
+  <idno type="VID">188005</idno>
+  <idno type="EEBO-PROQUEST">2240868193</idno>
+  
+            <idno type="STC">Wing L3257B</idno>
+            <idno type="STC">ESTC R180168</idno>
+            <idno type="OCLC">62369454</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188005)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lovers quarrel, or, Cupids triumph being the pleasant history of Fair Rosamond of Scotland, being daughter to the Lord Aundel whose love was obtained by the valour of Tommy Pots who conquered the Lord Phenix and wounded him and after obtained her to be his wife.</title>
+               </titleStmt>
+               <extent>[21] p., [1] leaf of plates : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Being very delightful to read."</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Chapbooks, English --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:188005:1"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of group scene</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:188005:1"/>
+            <p>THE Lovers Quarrel: OR, <hi>Cupids Triumph:</hi> BEING The Pleasant History of Fair <hi>ROSAMOND</hi> of SCOTLAND.</p>
+            <p>Being Daughter to the Lord <hi>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undel,</hi> whose love was obtained by the Valour of <hi>Tommy Pots:</hi> who conquered the Lord <hi>Phenix,</hi> and wounded him, and after obtained her to be his Wife.</p>
+            <p>Being very delightful to read.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles, T. V▪re, J. Wright,</hi> and <hi>J. Clark<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:188005:2"/>
+            <pb facs="tcp:188005:2"/>
+            <head>THE LOVERS QuARREL; OR, <hi>Cupids Triumph.</hi> BEING The pleasant History of Fair <hi>Rosamond</hi> of <hi>Scotland,</hi> &amp;c.</head>
+            <opener>This may be sung, to the Tune of, <hi>Flora</hi>'s Farewel.</opener>
+            <lg>
+               <l>OF all the Lords in <hi>Scotland</hi> fair,</l>
+               <l>&amp; Ladies that been so bright of blee,</l>
+               <l>There is a noble Lady among them all,</l>
+               <l>and report of her you shall hear by me.</l>
+            </lg>
+            <lg>
+               <l>For of her beauty she is bright,</l>
+               <l>and of her colour very fair,</l>
+               <l>She's daughter to Lord <hi>Arundel,</hi>
+               </l>
+               <l>approv'd his parand and his heir.</l>
+            </lg>
+            <lg>
+               <l>Ile see this bride, Lord <hi>Phenix</hi> said,</l>
+               <l>that Lady of so bright a blee,</l>
+               <l>And if I like her countenance well,</l>
+               <l>the heir of all my lands she'st be.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:188005:3"/>
+               <l>But when he came the Lady before,</l>
+               <l>before this comely Maid came he,</l>
+               <l>O God thée save thou Lady sweet,</l>
+               <l>my heir and Par and thou shalt be.</l>
+            </lg>
+            <lg>
+               <l>Leave off your suit (the Lady said)</l>
+               <l>as you are a Lord of high degree,</l>
+               <l>You may have Ladies enough at home,</l>
+               <l>and I have a Lord in mine own Country.</l>
+            </lg>
+            <lg>
+               <l>For I have a Lover true of mine own,</l>
+               <l>a Serving-man of low degree,</l>
+               <l>One <hi>Tommy Pots</hi> it is his name,</l>
+               <l>my first love and last that ever shall be.</l>
+            </lg>
+            <lg>
+               <l>If that <hi>Tom pots</hi> is his name,</l>
+               <l>I <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ken him right verily,</l>
+               <l>I am able to spend forty pounds a Wéek,</l>
+               <l>where he is not able to spend pounds thrée.</l>
+            </lg>
+            <lg>
+               <l>God give you good of your gold she said,</l>
+               <l>and ever God give you good of your fee,</l>
+               <l>
+                  <hi>Tom p<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> was the first love that ever I had,</l>
+               <l>and I do mean him the last to be.</l>
+            </lg>
+            <lg>
+               <l>With that Lord <hi>ph<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nix</hi> soon was mov'd,</l>
+               <l>towards the Lady did he threat,</l>
+               <l>He told her Fath<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, and so it was prov'd,</l>
+               <l>how his daughters mind was set.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:188005:3"/>
+               <l>O Daughter dear thou art my own,</l>
+               <l>the heir of all my lands to be,</l>
+               <l>Thou shalt be bride to the Lord <hi>Phenix,</hi>
+               </l>
+               <l>if that thou mean to be heir to me.</l>
+            </lg>
+            <lg>
+               <l>O father dear I am your own,</l>
+               <l>and at your <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommand I needs must be,</l>
+               <l>But bind my body to whom you please,</l>
+               <l>my heart <hi>Tom pots</hi> shall go with thee.</l>
+            </lg>
+            <lg>
+               <l>Alas the Lady her fondness must leave,</l>
+               <l>and all her foolish wooing lay aside,</l>
+               <l>The time is come, her friends hath appointed,</l>
+               <l>that she must be Lord <hi>Phenix</hi> bride.</l>
+            </lg>
+            <lg>
+               <l>With that the Lady began to weep,</l>
+               <l>she knew not well then what to say,</l>
+               <l>How she might Lord <hi>Phenix</hi> deny,</l>
+               <l>and escape from Marriage quite away.</l>
+            </lg>
+            <lg>
+               <l>She call'd unto her little Foot-page,</l>
+               <l>saying, I can trust none but thee,</l>
+               <l>Go carry <hi>Tom Pots</hi> this Letter fair,</l>
+               <l>&amp; bid him on <hi>Guilford-green</hi> meet me.</l>
+            </lg>
+            <lg>
+               <l>For I must marry against my mind,</l>
+               <l>or in faith well proved it shall be,</l>
+               <l>And tell to him I am loving and kind,</l>
+               <l>and wishes him this Wedding to see.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:188005:4"/>
+               <l>But sée that thou note his countenance well</l>
+               <l>and his colour, and shew it to me,</l>
+               <l>And go thy way and high thee again,</l>
+               <l>and forty shillings I will give thee.</l>
+            </lg>
+            <lg>
+               <l>For if he smile now with his lips,</l>
+               <l>his stomach will give him to laugh at the heart</l>
+               <l>Then may I seek another true Love,</l>
+               <l>for of <hi>Tom Pots</hi> small is my part.</l>
+            </lg>
+            <lg>
+               <l>But if he blush now in his face,</l>
+               <l>then in his heart he will sorry be,</l>
+               <l>Then to his vow he hath some grace,</l>
+               <l>and false to him I will never be.</l>
+            </lg>
+            <lg>
+               <l>Away this lacky boy he ran,</l>
+               <l>and a full speed forsooth went he,</l>
+               <l>Till he came to <hi>Strawberry-Castle,</hi>
+               </l>
+               <l>and there <hi>Tom Pots</hi> came he to see.</l>
+            </lg>
+            <lg>
+               <l>He gave him the Letter in his hand,</l>
+               <l>before that he began to read,</l>
+               <l>He told him plainly by word of mouth,</l>
+               <l>his Love was forc'd to be Lord <hi>Phenix</hi> bride.</l>
+            </lg>
+            <lg>
+               <l>When he look'd on the Letter fair,</l>
+               <l>the salt tears blemished his eye,</l>
+               <l>Says, I cannot read this Letter fair,</l>
+               <l>nor never a word to see or spy.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:188005:4"/>
+               <l>My little boy be to me true,</l>
+               <l>here is five marks I will give thee,</l>
+               <l>And all these words I must peruse,</l>
+               <l>and tell my Lady this from me.</l>
+            </lg>
+            <lg>
+               <l>By faith and troth she is my own,</l>
+               <l>by some part of promise so its to be found,</l>
+               <l>Lord <hi>Phoenix</hi> shall not have her night nor day</l>
+               <l>except he can win her with his own hand.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Guilford-Green</hi> I will her meet,</l>
+               <l>say that I wish her for me to pray,</l>
+               <l>For there I'le lose my life so sweet,</l>
+               <l>or else the Wedding I mean to stay.</l>
+            </lg>
+            <lg>
+               <l>Away this Lackey-boy he ran,</l>
+               <l>even as fast as he could hie,</l>
+               <l>The Lady she met him two miles of the way,</l>
+               <l>says, why hast thou staid so long my boy?</l>
+            </lg>
+            <lg>
+               <l>My little boy thou art but young,</l>
+               <l>it gives me at heart thou'l mock &amp; scorn</l>
+               <l>Ile not believe thee by word of Mouth,</l>
+               <l>unless on this book thou wilt be sworn.</l>
+            </lg>
+            <lg>
+               <l>Now by this book the boy did say,</l>
+               <l>and Iesus Christ be as true to me,</l>
+               <l>
+                  <hi>Tom Pots</hi> could not read the Letter fair,</l>
+               <l>nor never a word to spy or see.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:188005:5"/>
+               <l>He says by faith and troth you are his own,</l>
+               <l>by some part of promise so its to be found</l>
+               <l>L. <hi>Phenix</hi> shall not have you night nor day,</l>
+               <l>except he win you with his own hand.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Guilford-green</hi> he will you meet,</l>
+               <l>he wishes you for him to pray,</l>
+               <l>For there he'l lose his life so sweet,</l>
+               <l>or else the Wedding he means to stay.</l>
+            </lg>
+            <lg>
+               <l>If this be true my little boy,</l>
+               <l>these tidings which thou tellest to me,</l>
+               <l>Forty Shillings I did thee promise,</l>
+               <l>here is then pounds I will give thee.</l>
+            </lg>
+            <lg>
+               <l>My Maidens all the Lady said,</l>
+               <l>that ever wish me well to prove,</l>
+               <l>Now let us all kneel down and pray,</l>
+               <l>that <hi>Tommy pots</hi> may win his Love.</l>
+            </lg>
+            <lg>
+               <l>If it be his fortune the better to win,</l>
+               <l>as I pray to Christ in Trinity,</l>
+               <l>Ile make him the flower of all his kin,</l>
+               <l>for the young Lord <hi>Arundel</hi> he shall be.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:188005:5"/>
+               <head>THE Second Part.</head>
+               <lg>
+                  <l>LEts leave talking of this Lady fair,</l>
+                  <l>in prayers full good where she may be,</l>
+                  <l>Now let us talk of <hi>Tommy pots,</hi>
+                  </l>
+                  <l>to his Lord and Master for aid went he.</l>
+               </lg>
+               <lg>
+                  <l>But when he came Lord <hi>Jockey</hi> before,</l>
+                  <l>he kneeled lowly on his Knee,</l>
+                  <l>What news, what news, thou <hi>Tommy pots,</hi>
+                  </l>
+                  <l>thou art so full of courtesie?</l>
+               </lg>
+               <lg>
+                  <l>What tydings, what tydings, thou <hi>Tommy pots,</hi>
+                  </l>
+                  <l>thou art so full of courtesie;</l>
+                  <l>Thou hast slain some of thy fellows fair,</l>
+                  <l>or wrought to me some villany.</l>
+               </lg>
+               <lg>
+                  <l>I have slain none of my fellows fair,</l>
+                  <l>nor wrought to you no villany,</l>
+                  <l>But I have a love in <hi>Scotland</hi> fair,</l>
+                  <l>and I fear I shall lose her with poverty.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:6"/>
+                  <l>If you'l not believe me by word of mouth,</l>
+                  <l>but read this Letter and you shall see,</l>
+                  <l>Here by all these suspitious words</l>
+                  <l>that she her own self had sent to me.</l>
+               </lg>
+               <lg>
+                  <l>But when he had read the Letter fair,</l>
+                  <l>of all the suspitious words in it might be</l>
+                  <l>O <hi>Tommy Pots</hi> take thou no care,</l>
+                  <l>thou'st never lose her with poverty.</l>
+               </lg>
+               <lg>
+                  <l>For thou'st have forty pounds a week,</l>
+                  <l>in gold and silver thou shalt row,</l>
+                  <l>And <hi>Harvy</hi> Town I will give thee,</l>
+                  <l>as long as thou intend'st to wooe.</l>
+               </lg>
+               <lg>
+                  <l>Thou'st have forty of thy fellows fair,</l>
+                  <l>and forty horses to go with thee,</l>
+                  <l>Forty of the best Spears I have,</l>
+                  <l>and I my self in thy company.</l>
+               </lg>
+               <lg>
+                  <l>I thank you Master, said <hi>Tommy pots,</hi>
+                  </l>
+                  <l>that proffer is too good for me,</l>
+                  <l>But if Iesus Christ stand on my side</l>
+                  <l>my own hands shall set her free.</l>
+               </lg>
+               <lg>
+                  <l>God be with you Master, said <hi>Tommy pots</hi>
+                  </l>
+                  <l>now Iesus Christ you save and see,</l>
+                  <l>If ever I come alive again,</l>
+                  <l>staid the Wedding it shall be.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:6"/>
+                  <l>O God be your speed thou <hi>Tommy pots,</hi>
+                  </l>
+                  <l>thou art well proved for a man,</l>
+                  <l>See never a drop of blood thou spil,</l>
+                  <l>nor yonder Gentleman confound.</l>
+               </lg>
+               <lg>
+                  <l>See that some truce with him you take,</l>
+                  <l>and appoint a place of liberty;</l>
+                  <l>Let him provide him as well as he can,</l>
+                  <l>as well provided thou shalt be.</l>
+               </lg>
+               <lg>
+                  <l>But when he came to <hi>Guilford-green,</hi>
+                  </l>
+                  <l>and there had walkt a little aside,</l>
+                  <l>There was he ware of Lord <hi>Phenix</hi> come,</l>
+                  <l>and Lady <hi>Rosamond</hi> his bride.</l>
+               </lg>
+               <lg>
+                  <l>Away by the bride then <hi>Tommy pots</hi> went,</l>
+                  <l>but never a word to her did say,</l>
+                  <l>Till he the Lord <hi>Phenix</hi> came before,</l>
+                  <l>he gave him the right time of the day.</l>
+               </lg>
+               <lg>
+                  <l>O welcome, welcome, thou <hi>Tommy pots,</hi>
+                  </l>
+                  <l>thou serving-man of low degree,</l>
+                  <l>How doth thy Lord and Master at home,</l>
+                  <l>and all the Ladies in that countrey.</l>
+               </lg>
+               <lg>
+                  <l>My Lord and Master is in good health,</l>
+                  <l>I tru<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce that I did him see,</l>
+                  <l>Will you walk with me to an out-side,</l>
+                  <l>two or three words to talk with me.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:7"/>
+                  <l>You are a noble man, said <hi>Tom,</hi>
+                  </l>
+                  <l>and born a Lord in <hi>Scotland</hi> free,</l>
+                  <l>You may have Ladies enough at home,</l>
+                  <l>and never take my Love from me.</l>
+               </lg>
+               <lg>
+                  <l>Away, away, thou <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>thou serving-man stand thou aside,</l>
+                  <l>It is not a serving-man this day,</l>
+                  <l>that can hinder me of my bride.</l>
+               </lg>
+               <lg>
+                  <l>If I be a Serving-man said <hi>Tom,</hi>
+                  </l>
+                  <l>and you a Lord of high degree,</l>
+                  <l>A spear or two with you i'le run,</l>
+                  <l>before i'le lose her cowardly.</l>
+               </lg>
+               <lg>
+                  <l>Appoint a place I will thee meet,</l>
+                  <l>appoint a place of liberty,</l>
+                  <l>For there i'le lose my life so sweet,</l>
+                  <l>or else my Lady i'le set free.</l>
+               </lg>
+               <lg>
+                  <l>On <hi>Guilford-green</hi> I will thee meet,</l>
+                  <l>no man nor boy shall come with me;</l>
+                  <l>As I am a man, said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>i'le have as few in my company.</l>
+               </lg>
+               <lg>
+                  <l>And thus staid the Marriage was,</l>
+                  <l>the bride unmarried went home <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gain,</l>
+                  <l>Then to her Maids fast did she laugh,</l>
+                  <l>and in her heart she was full fain.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:7"/>
+                  <l>My Maidens all, the Lady said,</l>
+                  <l>that ever wait on me this day,</l>
+                  <l>Now let us all kneel down,</l>
+                  <l>and for <hi>Tommy Pots</hi> let us all pray.</l>
+               </lg>
+               <lg>
+                  <l>If it be his fortune the better to win,</l>
+                  <l>as I trust to God in Trinity,</l>
+                  <l>Ile make him the flower of all his kin,</l>
+                  <l>for the young Lord <hi>Arundel</hi> he shall be.</l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>THE Third Part,</head>
+               <lg>
+                  <l>WHen <hi>Tom Pots</hi> came home again,</l>
+                  <l>to try for his love he had but a wéek,</l>
+                  <l>For sorrow God wot he need not care,</l>
+                  <l>for four days that he fell sick.</l>
+               </lg>
+               <lg>
+                  <l>With that his master to him came,</l>
+                  <l>says, pray thee <hi>Tom Pots</hi> tell me if thou doubt,</l>
+                  <l>Whether thou hast gotten thy gay Lady,</l>
+                  <l>or thou must go thy love without.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:8"/>
+                  <l>O Master yet it is unknown,</l>
+                  <l>within these two days will try'd it must be,</l>
+                  <l>He is a Lord, I but a Serving-Man,</l>
+                  <l>I fear I shall lose her with poverty.</l>
+               </lg>
+               <lg>
+                  <l>I prethee <hi>Tom pots</hi> get thee on thy feet,</l>
+                  <l>my former promises kept shall be,</l>
+                  <l>As I am a Lord in <hi>Scotland</hi> fair,</l>
+                  <l>thou'st never lose her with poverty.</l>
+               </lg>
+               <lg>
+                  <l>For thou'st have the half of my Lands a year,</l>
+                  <l>and that will raise thee many a pound,</l>
+                  <l>Before thou shalt out-braved be,</l>
+                  <l>thou shalt drop Angels with him on the ground.</l>
+               </lg>
+               <lg>
+                  <l>I thank you Master said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>yet there is one thing of you I would fain,</l>
+                  <l>If that I lose my Lady sweet,</l>
+                  <l>how i'st restore your goods again?</l>
+               </lg>
+               <lg>
+                  <l>If that thou win the Lady sweet,</l>
+                  <l>thou mayst well forth thou shalt pay me,</l>
+                  <l>If thou loosest thy Lady, thou losest enough,</l>
+                  <l>thou shalt not pay me one penny.</l>
+               </lg>
+               <lg>
+                  <l>You have thirty horses in one close,</l>
+                  <l>you keep them all both frank and free,</l>
+                  <l>Amongst them all there's an Old White horse,</l>
+                  <l>this day would set my Lady free.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:8"/>
+                  <l>That is an old Horse with a cut tail,</l>
+                  <l>full sixteen years of age is he,</l>
+                  <l>If thou wilt lend me that old horse,</l>
+                  <l>then could I win her eastly.</l>
+               </lg>
+               <lg>
+                  <l>That's a foolish opinion his Master said,</l>
+                  <l>and a foolish opinion thou tak'st to thee,</l>
+                  <l>Thou'st have a better then ever he was,</l>
+                  <l>though forty pounds more it cost me.</l>
+               </lg>
+               <lg>
+                  <l>O your choice horses are wild and tough,</l>
+                  <l>and little they can skill of their train,</l>
+                  <l>If I be out of my saddle cast,</l>
+                  <l>they are so wild they'l ne'r be tain.</l>
+               </lg>
+               <lg>
+                  <l>Thou'st have that horse, his Master said,</l>
+                  <l>if that one thing thou wilt me tell,</l>
+                  <l>Why that horse is better then any other,</l>
+                  <l>I pray thee <hi>Tom Pots</hi> shew thou to me.</l>
+               </lg>
+               <lg>
+                  <l>That horse is old, of stomach bold,</l>
+                  <l>and well can he skill of his train,</l>
+                  <l>If I be out of my saddle cast,</l>
+                  <l>he'l either stand still, or turn again.</l>
+               </lg>
+               <lg>
+                  <l>Thou'st have the horse with all my heart,</l>
+                  <l>and my Plate Coat of silver free,</l>
+                  <l>An hundred men to stand at thy back,</l>
+                  <l>to fight if he thy Master be.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:9"/>
+                  <l>I thank you Master, said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>that proffer is too good for me,</l>
+                  <l>I would not for ten thousand pounds,</l>
+                  <l>have man or boy in my company.</l>
+               </lg>
+               <lg>
+                  <l>God be with you Master, said <hi>(Tommy Pots)</hi>
+                  </l>
+                  <l>now as you are a man of Law,</l>
+                  <l>One thing let me crave at your hand,</l>
+                  <l>let never a one of my fellows know.</l>
+               </lg>
+               <lg>
+                  <l>For if that my fellows they did wot,</l>
+                  <l>or ken of my extremity,</l>
+                  <l>Except you keep them under a lock,</l>
+                  <l>behind me I am sure they would not be.</l>
+               </lg>
+               <lg>
+                  <l>But when he came to <hi>Guilford-green,</hi>
+                  </l>
+                  <l>be waited hours two or three,</l>
+                  <l>There he was ware of Lord <hi>Phenix</hi> come,</l>
+                  <l>and four Men in his company.</l>
+               </lg>
+               <lg>
+                  <l>You have broken your vow, said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>the vow which you did make to me,</l>
+                  <l>You said you would bring neither man nor boy,</l>
+                  <l>and now has brought more then two or 3.</l>
+               </lg>
+               <lg>
+                  <l>These are my men, Lord <hi>Phenix</hi> said,</l>
+                  <l>which every day do wait on me,</l>
+                  <l>any of these dare proffer to strike,</l>
+                  <l>i'le run my spear through his body.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:9"/>
+                  <l>Ile run no race now, said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>except now this may <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>If either of us be slain this day,</l>
+                  <l>the other shall forgiven be.</l>
+               </lg>
+               <lg>
+                  <l>Ile make that vow with all my heart,</l>
+                  <l>my men shall hear witness with me,</l>
+                  <l>And if thou slay me here this day,</l>
+                  <l>in <hi>Scotland</hi> worse belov'd thou never shalt be.</l>
+               </lg>
+               <lg>
+                  <l>They turn'd their horses thrice about,</l>
+                  <l>to run the race so eagerly,</l>
+                  <l>Lord <hi>Phenix</hi> he was fierce and stout.</l>
+                  <l>&amp; ran <hi>Tom Pots</hi> through the thick o'th thigh.</l>
+               </lg>
+               <lg>
+                  <l>He bor'd him out of the Saddle fair,</l>
+                  <l>down to the ground so sorrowfully,</l>
+                  <l>For the loss of my life I do not care,</l>
+                  <l>but for the loss of my fair Lady.</l>
+               </lg>
+               <lg>
+                  <l>Now for the loss of my Lady sweet,</l>
+                  <l>which once I thought to have béen my wife,</l>
+                  <l>I pray thee Lord <hi>Phenix</hi> ride not away,</l>
+                  <l>for with thee I would end my life.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Tom Pots</hi> was but a Se<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ving-man,</l>
+                  <l>but yet he was a Doctor good,</l>
+                  <l>He bound his handkerchief on his wound,</l>
+                  <l>and with some kind of words he stanc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t his blood.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:10"/>
+                  <l>He leapt into his saddle again,</l>
+                  <l>the blood in his body began to warm,</l>
+                  <l>He mist Lord <hi>Phenix</hi> body fair,</l>
+                  <l>&amp; ran him through the brawn of the arm.</l>
+               </lg>
+               <lg>
+                  <l>He bor'd him out of his Saddle fair,</l>
+                  <l>down to the <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>round most sorrowfully,</l>
+                  <l>Says, prethee Lord <hi>Phenix</hi> rise up and fight,</l>
+                  <l>or yield my Lady unto me.</l>
+               </lg>
+               <lg>
+                  <l>Now for to fight I cannot tell,</l>
+                  <l>and for to fight I am not sure;</l>
+                  <l>Thou hast, run me throw the brawn o'th arm,</l>
+                  <l>that with a spear I may not endure.</l>
+               </lg>
+               <lg>
+                  <l>Thou'st have the Lady with all my heart,</l>
+                  <l>it was never likely better to prove,</l>
+                  <l>With me or any Nobleman else,</l>
+                  <l>that would hinder a poor man of his love.</l>
+               </lg>
+               <lg>
+                  <l>Seeing you say so much said <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>I will not seem your butcher to be,</l>
+                  <l>But I will come and stanch your blood,</l>
+                  <l>if any thing you will give me.</l>
+               </lg>
+               <lg>
+                  <l>As he did stanch Lord <hi>Phenix</hi> blood,</l>
+                  <l>Lord in his heart he did rejoyce,</l>
+                  <l>Ile not take the Lady from you thus,</l>
+                  <l>but of her you'st have another choice.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:10"/>
+                  <l>Here is a lane of two miles long,</l>
+                  <l>at either end we set will be,</l>
+                  <l>The Lady shall stand us among,</l>
+                  <l>her own choice shall set her free.</l>
+               </lg>
+               <lg>
+                  <l>If thou'l do so Lord <hi>Phenix</hi> said;</l>
+                  <l>to lose her by her own choice it's honesty,</l>
+                  <l>Chuse whether I get her or go her without,</l>
+                  <l>forty pounds I will give thee.</l>
+               </lg>
+               <lg>
+                  <l>But when they in that lane was set,</l>
+                  <l>the wit of a woman for to prove,</l>
+                  <l>By the faith of my body the Lady said,</l>
+                  <l>then <hi>Tom Pots</hi> must needs have his love.</l>
+               </lg>
+               <lg>
+                  <l>Towards <hi>Tom Pots</hi> the Lady did hie,</l>
+                  <l>to get on behind him h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stil<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</l>
+                  <l>Nay stay, nay stay, Lord <hi>Phenix</hi> said,</l>
+                  <l>better proved it shall be.</l>
+               </lg>
+               <lg>
+                  <l>Stay you with your Maidens here,</l>
+                  <l>in number fair they are but three:</l>
+                  <l>
+                     <hi>Tom Pots</hi> and I will go b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hind yonder wall,</l>
+                  <l>that one of us two be proved to dye.</l>
+               </lg>
+               <lg>
+                  <l>But when they came behind the wall,</l>
+                  <l>the one came not the othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igh,</l>
+                  <l>For the Lord <hi>Phenix</hi> had made a vow,</l>
+                  <l>that with <hi>Tom Pots</hi> he would never fight.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:11"/>
+                  <l>O give me this choice Lord <hi>Phenix</hi> said,</l>
+                  <l>to prove whether true or false she be,</l>
+                  <l>And I will go to the Lady fair,</l>
+                  <l>and tell her <hi>Tom Pots</hi> slain is he.</l>
+               </lg>
+               <lg>
+                  <l>When he came from behind the Wall,</l>
+                  <l>with his face all bloody as it might be,</l>
+                  <l>O Lady sweet thou art my own,</l>
+                  <l>for <hi>Tom Pots</hi> slain have I.</l>
+               </lg>
+               <lg>
+                  <l>Now have I slain him, <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>and given him deaths wounds two or thrée,</l>
+                  <l>O Lady sweet thou art my own,</l>
+                  <l>of all loves wilt thou live with me?</l>
+               </lg>
+               <lg>
+                  <l>If thou hast slain him <hi>Tommy Pots,</hi>
+                  </l>
+                  <l>&amp; given him deaths wounds two or three,</l>
+                  <l>Ile sell the state of my fathers Lands,</l>
+                  <l>but hanged shall Lord <hi>Phenix</hi> be.</l>
+               </lg>
+               <lg>
+                  <l>With that the Lady fell in a swound,</l>
+                  <l>for a grieved woman god wot was she,</l>
+                  <l>Lord <hi>Phenix</hi> he was ready then,</l>
+                  <l>to take her up so hastily.</l>
+               </lg>
+               <lg>
+                  <l>O Lady sweet, stand thou on thy feet,</l>
+                  <l>
+                     <hi>Tom Pots</hi> alive this day may be,</l>
+                  <l>Ile send for thy Father Lord <hi>Arundel,</hi>
+                  </l>
+                  <l>and he and I the wedding will see.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:188005:11"/>
+                  <l>I'le send for thy Father Lord <hi>Arundel,</hi>
+                  </l>
+                  <l>and he and I the Wedding will sée:</l>
+                  <l>If he will not maintain you well,</l>
+                  <l>both Lands and livings you'st have of me.</l>
+               </lg>
+               <lg>
+                  <l>I'le fée this Wedding, Lord <hi>Arundel</hi> said,</l>
+                  <l>of my daughters luck that is so fair,</l>
+                  <l>Séeing the matter will be no better,</l>
+                  <l>of all my Lands <hi>Tom Pots</hi> shall be the heir.</l>
+               </lg>
+               <lg>
+                  <l>With that the Lady began to smile,</l>
+                  <l>for a glad woman God wot was she,</l>
+                  <l>Now all my Maids the Lady said,</l>
+                  <l>example you may take by me.</l>
+               </lg>
+               <lg>
+                  <l>But all the Ladies of <hi>Scotland</hi> fair,</l>
+                  <l>and lasses of <hi>England</hi> that well would prove</l>
+                  <l>Neither marry for Gold nor Goods,</l>
+                  <l>nor marry for nothing but only love.</l>
+               </lg>
+               <lg>
+                  <l>For I had a lover true of my own,</l>
+                  <l>a Serving-man of low degree,</l>
+                  <l>Now from <hi>Tom Pots</hi> I'le change his name,</l>
+                  <l>for the young Lord <hi>Arundel</hi> he shall be.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
